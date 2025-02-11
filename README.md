@@ -1,0 +1,1 @@
+# ngx-scanner-detact
