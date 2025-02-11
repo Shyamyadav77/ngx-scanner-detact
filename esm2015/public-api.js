@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ngx-barcodeput
+ */
+export * from './lib/directive/ngx-barcodeput.directive';
+export * from './lib/ngx-barcodeput.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25neC1iYXJjb2RlcHV0L3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYywwQ0FBMEMsQ0FBQztBQUN6RCxjQUFjLDZCQUE2QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZ3gtYmFyY29kZXB1dFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2RpcmVjdGl2ZS9uZ3gtYmFyY29kZXB1dC5kaXJlY3RpdmUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LWJhcmNvZGVwdXQubW9kdWxlJztcbiJdfQ==
