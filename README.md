@@ -1,3 +1,5 @@
+> ## This Git repository is used in the **`IMS LINK APP`** as a package. It is a copy of the **ngx-BarCodePut** NPM package, which was removed by the author. Therefore, we are using this Git repository instead. Please do not remove it.
+
 # ngx-barcodeput
 Angular directive for handling input events. Useful for determine input using a barcode-scanner.
 
